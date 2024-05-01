@@ -1,0 +1,21 @@
+git config --global user.name "username"
+git config --global user.email "email add"
+git config user.email
+cd
+pwd /display directory
+git init
+touch index.txt
+ls
+git add index.txt
+git commit -m "message here"
+git add . //all
+git status
+git checkout mybranch /switch to mybranch
+code . /open code vs
+git branch
+git branch mybranch
+
+git merge master
+
+mkdir Gitclone
+cd Gitclone
